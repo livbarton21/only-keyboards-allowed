@@ -33,6 +33,10 @@ html {
   background-image: url("../images/galaxy-evolution-explorer.jpg");
 }
 
+.nav a:focus {
+  outline: 3px solid #fff;
+}
+
 .masthead-title {
   position: relative;
   z-index: 2;
